@@ -7,5 +7,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch web series and read books
 
----
 <img align="left" alt="Shubhram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhrampandey&show_icons=true&hide_border=true" />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
