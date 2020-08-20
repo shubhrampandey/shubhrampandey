@@ -9,7 +9,3 @@
 
 ---
 <img align="left" alt="Shubhram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhrampandey&show_icons=true&hide_border=true" />
-
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrampandey&layout=compact)](https://github.com/shubhrampandey/github-readme-stats)
